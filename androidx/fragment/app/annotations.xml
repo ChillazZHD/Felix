@@ -1,0 +1,6 @@
+<root>
+    <item name='androidx.fragment.app.FragmentActivity TAG'>
+        <annotation name='java.lang.Deprecated' />
+        <annotation name='org.jetbrains.annotations.NotNull' />
+    </item>
+</root>
